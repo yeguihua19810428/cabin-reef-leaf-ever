@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "LyricGrammar",
+      "hasCanvas": false,
+      "bodyTextLen": 2561,
+      "bodyTextHash": "038e3e6748b0d9d3a3aa9794280e78927e22f46baac7ebc9c5a8e2e33a9c6112",
+      "bodyTextPrefix": "LyricGrammar 歌词沉浸赏析 语法成分透镜 卡拉OK填空挑战 举一反三·造句工坊 导入歌曲 (MP3 & SRT) 音",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "LyricGrammar",
+      "hasCanvas": false,
+      "bodyTextLen": 2509,
+      "bodyTextHash": "5cf138a157f436529f98b6b963cbb0c4ad361b8c6bbe425da93b888404cb1ace",
+      "bodyTextPrefix": "LyricGrammar 导入 音乐浸润式二语习得 · 当前精选: Count On Me · 第一条件句 (If 引导条件状语",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

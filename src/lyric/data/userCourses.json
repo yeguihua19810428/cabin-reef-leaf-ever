@@ -1,0 +1,877 @@
+[
+  {
+    "id": "course-1792590121024",
+    "title": "Count On Me",
+    "artist": "Bruno Mars",
+    "cefrLevel": "B1",
+    "genre": "Pop",
+    "duration": 197.41375,
+    "grammarTheme": "以后的事，If 后面当现在说",
+    "coverImage": "/src/assets/images/hero_lyric_grammar_1792579064655.jpg",
+    "audioUrl": "/audio/03_Bruno_Mars_-_Count_On_Me.mp3",
+    "tempoBpm": 90,
+    "keySignature": "C Major",
+    "coreSummary": "就学以后的事。If 后面当现在说，will 放在下一句。",
+    "keyTakeawayPatterns": [
+      {
+        "name": "以后的事，If 后面当现在说",
+        "formula": "If you find... I'll ...",
+        "exampleInSong": "If you ever find yourself stuck in the middle of the sea, I'll sail the world to find you.",
+        "dailyExample": "If it rains tomorrow, I will stay at home."
+      }
+    ],
+    "lines": [
+      {
+        "id": "srt-1",
+        "startTime": 5.31,
+        "endTime": 10.71,
+        "text": "If you ever find yourself stuck in the middle of the sea",
+        "translation": "要是有一天你被困在海上",
+        "grammarPoint": "以后的事，If 后面当现在说",
+        "patternTemplate": "If + 现在",
+        "explanation": "两件事都是以后才发生的。If 后面那件，却当成现在来说，不加 will。will 只放在后面那句，说你到时会怎么做。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "find",
+          "sentenceWithBlank": "If you ever _____ yourself stuck in the middle of the sea",
+          "hint": "两件都是以后的事。这里说 find，不说 will find。",
+          "options": [
+            "find",
+            "will find",
+            "found",
+            "finding"
+          ]
+        }
+      },
+      {
+        "id": "srt-2",
+        "startTime": 10.71,
+        "endTime": 16.08,
+        "text": "I'll sail the world to find you",
+        "translation": "我会航行到世界尽头去找你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-3",
+        "startTime": 16.08,
+        "endTime": 21.28,
+        "text": "If you ever find yourself lost in the dark and you can't see",
+        "translation": "要是有一天你在黑暗里什么也看不见",
+        "grammarPoint": "以后的事，If 后面当现在说",
+        "patternTemplate": "If + 现在",
+        "explanation": "两件事都是以后才发生的。If 后面那件，却当成现在来说，不加 will。will 只放在后面那句，说你到时会怎么做。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "find",
+          "sentenceWithBlank": "If you ever _____ yourself lost in the dark and you can't see",
+          "hint": "两件都是以后的事。这里说 find，不说 will find。",
+          "options": [
+            "find",
+            "will find",
+            "found",
+            "finding"
+          ]
+        }
+      },
+      {
+        "id": "srt-4",
+        "startTime": 21.28,
+        "endTime": 26.17,
+        "text": "I'll be the light to guide you",
+        "translation": "我会变成光照着你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-5",
+        "startTime": 28.47,
+        "endTime": 32.1,
+        "text": "Find out what we're made of",
+        "translation": "看看我们到底是什么样的人",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-6",
+        "startTime": 32.1,
+        "endTime": 36.99,
+        "text": "When we are called to help our friends in need",
+        "translation": "当朋友需要帮忙的时候",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-7",
+        "startTime": 37.14,
+        "endTime": 39.95,
+        "text": "You can count on me",
+        "translation": "你可以靠着我",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-8",
+        "startTime": 39.95,
+        "endTime": 45.76,
+        "text": "Like one, two, three, I'll be there",
+        "translation": "像一二三，我就在",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-9",
+        "startTime": 45.76,
+        "endTime": 48.1,
+        "text": "And I know when I need it",
+        "translation": "我也知道，当我需要的时候",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-10",
+        "startTime": 48.1,
+        "endTime": 50.75,
+        "text": "I can count on you",
+        "translation": "我可以靠着你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-11",
+        "startTime": 50.75,
+        "endTime": 56.4,
+        "text": "Like four, three, two, and you'll be there",
+        "translation": "像四三二，你也会在",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-12",
+        "startTime": 56.4,
+        "endTime": 60.78,
+        "text": "'Cause that's what friends are supposed to do, ah yeah",
+        "translation": "因为朋友就该这样",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-13",
+        "startTime": 60.78,
+        "endTime": 69.83,
+        "text": "Ooh, ooh, yeah, yeah",
+        "translation": "喔，耶",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-14",
+        "startTime": 70.08,
+        "endTime": 75.41,
+        "text": "If you're tossing and you're turning and you just can't fall asleep",
+        "translation": "要是你翻来覆去睡不着",
+        "grammarPoint": "以后的事，If 后面当现在说",
+        "patternTemplate": "If + 现在",
+        "explanation": "两件事都是以后才发生的。If 后面那件，却当成现在来说，不加 will。will 只放在后面那句，说你到时会怎么做。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "you're",
+          "sentenceWithBlank": "If _____ tossing and you're turning and you just can't fall asleep",
+          "hint": "两件都是以后的事。这里说 you're，不说 you'll。",
+          "options": [
+            "you're",
+            "you'll",
+            "you were",
+            "you'll be"
+          ]
+        }
+      },
+      {
+        "id": "srt-15",
+        "startTime": 75.41,
+        "endTime": 80.59,
+        "text": "I'll sing a song beside you",
+        "translation": "我就在你身边唱歌",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-16",
+        "startTime": 80.59,
+        "endTime": 85.93,
+        "text": "And if you ever forget how much you really mean to me",
+        "translation": "要是你忘了你对我有多重要",
+        "grammarPoint": "以后的事，If 后面当现在说",
+        "patternTemplate": "If + 现在",
+        "explanation": "两件事都是以后才发生的。If 后面那件，却当成现在来说，不加 will。will 只放在后面那句。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "forget",
+          "sentenceWithBlank": "And if you ever _____ how much you really mean to me",
+          "hint": "两件都是以后的事。这里说 forget，不说 will forget。",
+          "options": [
+            "forget",
+            "will forget",
+            "forgot",
+            "forgetting"
+          ]
+        }
+      },
+      {
+        "id": "srt-17",
+        "startTime": 85.93,
+        "endTime": 90.63,
+        "text": "Every day I will remind you",
+        "translation": "我每天都会提醒你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-18",
+        "startTime": 91.08,
+        "endTime": 93.06,
+        "text": "Oh",
+        "translation": "哦",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-19",
+        "startTime": 93.06,
+        "endTime": 96.9,
+        "text": "We find out what we're made of",
+        "translation": "我们会看清自己是什么样的人",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-20",
+        "startTime": 96.9,
+        "endTime": 101.66,
+        "text": "When we are called to help our friends in need",
+        "translation": "当朋友需要帮忙的时候",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-21",
+        "startTime": 102.03,
+        "endTime": 104.86,
+        "text": "You can count on me",
+        "translation": "你可以靠着我",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-22",
+        "startTime": 104.86,
+        "endTime": 110.51,
+        "text": "Like one, two, three, I'll be there",
+        "translation": "像一二三，我就在",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-23",
+        "startTime": 110.51,
+        "endTime": 112.83,
+        "text": "And I know when I need it",
+        "translation": "我也知道，当我需要的时候",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-24",
+        "startTime": 112.83,
+        "endTime": 115.5,
+        "text": "I can count on you",
+        "translation": "我可以靠着你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-25",
+        "startTime": 115.5,
+        "endTime": 121.02,
+        "text": "Like four, three, two, and you'll be there",
+        "translation": "像四三二，你也会在",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-26",
+        "startTime": 121.02,
+        "endTime": 125.57,
+        "text": "'Cause that's what friends are supposed to do, ah yeah",
+        "translation": "因为朋友就该这样",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-27",
+        "startTime": 125.57,
+        "endTime": 134.62,
+        "text": "Ooh, ooh, yeah, yeah",
+        "translation": "喔，耶",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-28",
+        "startTime": 134.63,
+        "endTime": 145.48,
+        "text": "You'll always have my shoulder when you cry",
+        "translation": "你哭的时候，肩膀一直在",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-29",
+        "startTime": 145.48,
+        "endTime": 153.92,
+        "text": "I'll never let go, never say goodbye",
+        "translation": "我不会松手，也不会说再见",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-30",
+        "startTime": 153.93,
+        "endTime": 158.56,
+        "text": "You know you can count on me",
+        "translation": "你知道你可以靠着我",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-31",
+        "startTime": 158.56,
+        "endTime": 164.25,
+        "text": "Like one, two, three, I'll be there",
+        "translation": "像一二三，我就在",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-32",
+        "startTime": 164.25,
+        "endTime": 166.66,
+        "text": "And I know when I need it",
+        "translation": "我也知道，当我需要的时候",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-33",
+        "startTime": 166.66,
+        "endTime": 169.22,
+        "text": "I can count on you",
+        "translation": "我可以靠着你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-34",
+        "startTime": 169.22,
+        "endTime": 174.88,
+        "text": "Like four, three, two, and you'll be there",
+        "translation": "像四三二，你也会在",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-35",
+        "startTime": 174.88,
+        "endTime": 179.54,
+        "text": "'Cause that's what friends are supposed to do, ah yeah",
+        "translation": "因为朋友就该这样",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-36",
+        "startTime": 179.54,
+        "endTime": 185.79,
+        "text": "Ooh, ooh",
+        "translation": "喔",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "srt-37",
+        "startTime": 185.79,
+        "endTime": 191.46,
+        "text": "You can count on me 'cause I can count on you",
+        "translation": "你可以靠着我，因为我也可以靠着你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      }
+    ],
+    "isPermanentlySaved": true
+  },
+  {
+    "id": "bruno-talking-to-the-moon",
+    "title": "Talking to the Moon",
+    "artist": "Bruno Mars",
+    "year": 2010,
+    "cefrLevel": "A2",
+    "genre": "Pop",
+    "grammarTheme": "已经说过的事，嘴里用现在说",
+    "coverImage": "/src/assets/images/hero_lyric_grammar_1792579064655.jpg",
+    "duration": 218.38,
+    "tempoBpm": 146,
+    "keySignature": "C Major",
+    "coreSummary": "就学已经说过的事。They say I've gone mad。嘴里用 say，不用 said。",
+    "keyTakeawayPatterns": [
+      {
+        "name": "已经说过的事，嘴里用现在说",
+        "formula": "They say ...",
+        "exampleInSong": "They say I've gone mad.",
+        "dailyExample": "They say I stay up too late."
+      }
+    ],
+    "lines": [
+      {
+        "id": "moon-1",
+        "startTime": 1.0,
+        "endTime": 3.6,
+        "text": "I know you're somewhere out there",
+        "translation": "我知道你在某个地方",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-2",
+        "startTime": 3.6,
+        "endTime": 7.0,
+        "text": "Somewhere far away",
+        "translation": "在很远的地方",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-3",
+        "startTime": 7.0,
+        "endTime": 10.0,
+        "text": "I want you back",
+        "translation": "我想你回来",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-4",
+        "startTime": 10.0,
+        "endTime": 14.0,
+        "text": "I want you back",
+        "translation": "我想你回来",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-5",
+        "startTime": 14.0,
+        "endTime": 17.0,
+        "text": "My neighbors think I'm crazy",
+        "translation": "邻居觉得我疯了",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-6",
+        "startTime": 17.0,
+        "endTime": 20.0,
+        "text": "But they don't understand",
+        "translation": "可他们不懂",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-7",
+        "startTime": 20.0,
+        "endTime": 23.0,
+        "text": "You're all I had",
+        "translation": "我只有你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-8",
+        "startTime": 23.0,
+        "endTime": 28.0,
+        "text": "You're all I had",
+        "translation": "我只有你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-9",
+        "startTime": 28.0,
+        "endTime": 35.2,
+        "text": "At night, when the stars light up my room",
+        "translation": "夜里，星星照亮我的房间",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-10",
+        "startTime": 35.2,
+        "endTime": 40.0,
+        "text": "I sit by myself",
+        "translation": "我一个人坐着",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-11",
+        "startTime": 40.0,
+        "endTime": 45.0,
+        "text": "Talking to the moon",
+        "translation": "对着月亮说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-12",
+        "startTime": 45.0,
+        "endTime": 53.0,
+        "text": "Trying to get to you",
+        "translation": "想够到你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-13",
+        "startTime": 53.0,
+        "endTime": 57.0,
+        "text": "In hopes you're on the other side",
+        "translation": "希望你在另一边",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-14",
+        "startTime": 57.0,
+        "endTime": 60.5,
+        "text": "Talking to me too",
+        "translation": "也在跟我说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-15",
+        "startTime": 60.5,
+        "endTime": 65.0,
+        "text": "Or am I a fool who sits alone",
+        "translation": "还是我只是个傻瓜，一个人坐着",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-16",
+        "startTime": 65.0,
+        "endTime": 69.0,
+        "text": "Talking to the moon?",
+        "translation": "对着月亮说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-17",
+        "startTime": 69.0,
+        "endTime": 79.0,
+        "text": "I'm feeling like I'm famous, the talk of the town",
+        "translation": "我感觉自己像个名人，满城都在议论",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-18",
+        "startTime": 79.0,
+        "endTime": 83.0,
+        "text": "They say I've gone mad",
+        "translation": "他们说我已经疯了",
+        "grammarPoint": "已经说过的事，嘴里用现在说",
+        "patternTemplate": "They say",
+        "explanation": "别人已经这么说了。嘴里却用 They say，不用 They said。听起来这消息现在还在起作用。",
+        "chunks": [],
+        "cloze": {
+          "blankWord": "say",
+          "sentenceWithBlank": "They _____ I've gone mad.",
+          "hint": "别人已经这么说了。嘴里用 say，不用 said。",
+          "options": [
+            "say",
+            "said",
+            "will say",
+            "says"
+          ]
+        }
+      },
+      {
+        "id": "moon-19",
+        "startTime": 83.0,
+        "endTime": 87.0,
+        "text": "Yeah, I've gone mad",
+        "translation": "对，我已经疯了",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-20",
+        "startTime": 87.0,
+        "endTime": 89.0,
+        "text": "But they don't know what I know",
+        "translation": "可他们不知道我知道的事",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-21",
+        "startTime": 89.0,
+        "endTime": 97.0,
+        "text": "'Cause when the sun goes down, someone's talking back",
+        "translation": "因为太阳落下去，就有人在回话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-22",
+        "startTime": 97.0,
+        "endTime": 99.0,
+        "text": "Yeah, they're talking back",
+        "translation": "对，他们在回话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-23",
+        "startTime": 99.0,
+        "endTime": 106.0,
+        "text": "At night, when the stars light up my room",
+        "translation": "夜里，星星照亮我的房间",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-24",
+        "startTime": 106.0,
+        "endTime": 110.0,
+        "text": "I sit by myself",
+        "translation": "我一个人坐着",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-25",
+        "startTime": 110.0,
+        "endTime": 117.0,
+        "text": "Talking to the moon",
+        "translation": "对着月亮说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-26",
+        "startTime": 117.0,
+        "endTime": 125.0,
+        "text": "Trying to get to you",
+        "translation": "想够到你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-27",
+        "startTime": 125.0,
+        "endTime": 131.0,
+        "text": "In hopes you're on the other side talking to me too",
+        "translation": "希望你在另一边，也在跟我说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-28",
+        "startTime": 131.0,
+        "endTime": 148.0,
+        "text": "Or am I a fool who sits alone talking to the moon?",
+        "translation": "还是我只是个傻瓜，一个人对着月亮说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-29",
+        "startTime": 148.0,
+        "endTime": 161.0,
+        "text": "Do you ever hear me calling?",
+        "translation": "你听得到我在叫你吗",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-30",
+        "startTime": 161.0,
+        "endTime": 169.0,
+        "text": "'Cause every night, I'm talking to the moon",
+        "translation": "因为每个晚上我都在对月亮说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-31",
+        "startTime": 169.0,
+        "endTime": 178.0,
+        "text": "Still trying to get to you",
+        "translation": "还在想够到你",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-32",
+        "startTime": 178.0,
+        "endTime": 184.0,
+        "text": "In hopes you're on the other side talking to me too",
+        "translation": "希望你在另一边，也在跟我说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      },
+      {
+        "id": "moon-33",
+        "startTime": 184.0,
+        "endTime": 218.38,
+        "text": "Or am I a fool who sits alone talking to the moon?",
+        "translation": "还是我只是个傻瓜，一个人对着月亮说话",
+        "grammarPoint": "",
+        "patternTemplate": "",
+        "explanation": "",
+        "chunks": []
+      }
+    ],
+    "audioUrl": "/audio/04_Bruno_Mars_-_Talking_to_the_Moon.mp3"
+  }
+]
